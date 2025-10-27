@@ -4,8 +4,6 @@ description: This resource contains description on the film, Hara-kiri.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/84d5088c95f4dc4fe5355eaed8d73096_dl_lec24.pdf
 file_size: 12789
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

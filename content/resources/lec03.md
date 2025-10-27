@@ -7,8 +7,6 @@ description: 'Lecture presentation about story of gi?, mongaku, aoi no mae and k
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/d70535d37e109fdfaa603b9f624a2dca_lec03.pdf
 file_size: 15371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains information on religion, aesthetics and supe
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/de5eeb6024db83f6c239ebb15bad4af3_dl_lec13.pdf
 file_size: 19541
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

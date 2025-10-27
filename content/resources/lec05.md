@@ -5,8 +5,6 @@ description: 'Lecture presentation about basic political narrative, daimy?: regi
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/1a6fc271b9d730a33ee581e1f987264b_lec05.pdf
 file_size: 18839
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

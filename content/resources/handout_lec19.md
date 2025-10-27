@@ -5,8 +5,6 @@ description: This handout contains information about genroku era, kabuki theater
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/0be0ae76290448ac44ef5c42f9d7cfc3_handout_lec19.pdf
 file_size: 95838
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

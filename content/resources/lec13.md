@@ -6,8 +6,6 @@ description: Lecture presentation about background to medieval buddhism, rise of
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/1d0e353e52bf535993a1c6ba9ce03124_lec13.pdf
 file_size: 57647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Lecture presentation about famous haiku, basho sets off, urami no t
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/fdbba091d28ffd1ce54a5160438aa462_lec12.pdf
 file_size: 70974
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

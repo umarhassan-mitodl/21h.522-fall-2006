@@ -5,8 +5,6 @@ description: This resource contains a lecture on the protests, rebellion, and ma
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/337de49a515dd667698899a389d4493a_dl_lec23.pdf
 file_size: 17246
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

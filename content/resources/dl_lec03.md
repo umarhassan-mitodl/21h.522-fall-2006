@@ -5,8 +5,6 @@ description: This resource contains a brief discription of the culture of Japan,
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/557a0179839757ee3daa0839c64cdeda_dl_lec03.pdf
 file_size: 24074
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

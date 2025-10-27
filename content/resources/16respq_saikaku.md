@@ -4,8 +4,6 @@ description: Study questions.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/6cc985b535a78e4438ce5ef4cc45f301_16respq_saikaku.pdf
 file_size: 19568
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

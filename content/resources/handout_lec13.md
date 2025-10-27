@@ -5,8 +5,6 @@ description: This handout contains information about siddhartha gautama, pre bud
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/2ec63c1bfd20cd44e45ff187c313af91_handout_lec13.pdf
 file_size: 78449
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource explains Zen concepts from Daisetz Suzuki?s Zen and J
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/78fef70bbc62d02046b000f773e01830_dl_lec05.pdf
 file_size: 11777
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

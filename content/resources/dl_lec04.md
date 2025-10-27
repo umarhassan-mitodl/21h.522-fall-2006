@@ -4,8 +4,6 @@ description: Summary of topics covered in the lecture.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/4184829874f26fc8449de569544fcd3d_dl_lec04.pdf
 file_size: 31690
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Lecture presentation about christianity, missionary work, expansion
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/5314dfdc21a1d2bc9776f1131a0a7c36_lec14.pdf
 file_size: 228033
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

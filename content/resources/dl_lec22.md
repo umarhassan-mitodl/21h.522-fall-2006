@@ -4,8 +4,6 @@ description: This resource contains notes on the samurai women.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/db777d5c2c502b91473b7eb2d0c4c0f2_dl_lec22.pdf
 file_size: 19813
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

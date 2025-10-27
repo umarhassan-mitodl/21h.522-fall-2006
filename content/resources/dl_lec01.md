@@ -4,8 +4,6 @@ description: This resource contains an introduction to the medieval period.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/8ac7da8fb7b18b6b6c2d663063c6ee37_dl_lec01.pdf
 file_size: 25417
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Study questions.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/146a11348dccd933a590f9d33d21ffe8_03study1_hoichi.pdf
 file_size: 8767
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
